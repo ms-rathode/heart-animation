@@ -14,7 +14,7 @@ An interactive heart trail animation built with *HTML5, **CSS3, and **JavaScript
 ## 🚀 Live Demo
 
 View the project live:  
-👉 [https://anusha.github.io/heart-animation](https://anusha.github.io/heart-animation)
+👉 https://github.com/ms-rathode/heart-animation.git
 
 ## 🛠 Technologies Used
 
