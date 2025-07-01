@@ -20,5 +20,5 @@ View the project live:
 
 - *HTML5* – Structure and markup
 - *CSS3* – Styling and keyframe animations
-- *JavaScript (Vanilla)* – DOM manipulation and interactivity
+- *JavaScript * – DOM manipulation and interactivity
 
