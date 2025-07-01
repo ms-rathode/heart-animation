@@ -9,7 +9,7 @@ An interactive heart trail animation built with HTML5, **CSS3, and **JavaScript.
 - 🧹 Automatic cleanup of DOM elements after animation
 
 ## 📸 Preview
-![Screenshot 2025-07-01 151557](https://github.com/user-attachments/assets/8209f50a-81dd-46ef-b247-3df84e222ab5)
+![Screenshot 2025-07-01 151557](https://github.com/user-attachments/assets/dc464a9a-aecb-4406-95e0-c323aecad87d)
 
 
 ## 🚀 Live Demo
